@@ -1,0 +1,101 @@
+{
+  "trainer": {
+    "src": "assets/img/trainer.jpg",
+    "title": "PT Session",
+    "creator": "Dembo",
+    "creator_url": "https://www.flickr.com/photos/7543982@N08",
+    "license": "by-nc-nd",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/7543982@N08/12937867094",
+    "source": "flickr"
+  },
+  "workout": {
+    "src": "assets/img/workout.jpg",
+    "title": "balance",
+    "creator": "Rosmarie Voegtli",
+    "creator_url": "https://www.flickr.com/photos/94212497@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/94212497@N00/7662328952",
+    "source": "flickr"
+  },
+  "assessment": {
+    "src": "assets/img/assessment.jpg",
+    "title": "PEDro quality assessment of the included studies in meta-analysis about concurrent endurance and resistance exercise ('concurrent training effect')",
+    "creator": "Authors of the study: Henrik Petré, Erik Hemmingsson, Hans Rosdahl & Niklas Psilander",
+    "creator_url": "https://www.flickr.com/photos/63080087@N06",
+    "license": "by",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=143478942",
+    "source": "wikimedia"
+  },
+  "rehab": {
+    "src": "assets/img/rehab.jpg",
+    "title": "Lines and Shadows - Flickr - Me in ME",
+    "creator": "Paul VanDerWerf from Brunswick, Maine, USA",
+    "creator_url": "https://www.flickr.com/people/12357841@N02",
+    "license": "by",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=180185347",
+    "source": "wikimedia"
+  },
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "Fitness Photography - Male Fitness Model Monochrome",
+    "creator": "vanitystudiosphotography",
+    "creator_url": "https://www.flickr.com/photos/149481436@N03",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/149481436@N03/35302841805",
+    "source": "flickr"
+  },
+  "services": {
+    "src": "assets/img/services.jpg",
+    "title": "Open Space Group - Two concepts shared",
+    "creator": "Tatiana12",
+    "creator_url": "https://www.flickr.com/photos/98826299@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/98826299@N00/13017281675",
+    "source": "flickr"
+  },
+  "assessment": {
+    "src": "assets/img/assessment.jpg",
+    "title": "2013_08_12_Weight_Lifters_B.jpg",
+    "creator": "AMISOM Public Information",
+    "creator_url": "https://www.flickr.com/photos/61765479@N08",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/61765479@N08/9501241824",
+    "source": "flickr"
+  },
+  "services": {
+    "src": "assets/img/services.jpg",
+    "title": "pwrjn_184",
+    "creator": "Novafly",
+    "creator_url": "https://www.flickr.com/photos/22433507@N00",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/22433507@N00/44357113050",
+    "source": "flickr"
+  },
+  "rehab": {
+    "src": "assets/img/rehab.jpg",
+    "title": "2ND ANNUAL GOLF TOURNAMENT",
+    "creator": "rikkis_refuge",
+    "creator_url": "https://www.flickr.com/photos/60109376@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/60109376@N00/3510103881",
+    "source": "flickr"
+  }
+}
